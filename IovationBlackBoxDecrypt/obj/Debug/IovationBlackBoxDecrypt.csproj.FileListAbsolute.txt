@@ -1,0 +1,7 @@
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\bin\Debug\IovationBlackBoxDecrypt.exe.config
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\bin\Debug\IovationBlackBoxDecrypt.exe
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\bin\Debug\IovationBlackBoxDecrypt.pdb
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\obj\Debug\IovationBlackBoxDecrypt.csprojAssemblyReference.cache
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\obj\Debug\IovationBlackBoxDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\obj\Debug\IovationBlackBoxDecrypt.exe
+C:\Users\gmka9\source\repos\IovationBlackBoxDecrypt\IovationBlackBoxDecrypt\obj\Debug\IovationBlackBoxDecrypt.pdb
